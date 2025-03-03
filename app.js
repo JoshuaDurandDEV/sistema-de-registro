@@ -1,1 +1,2 @@
-console.log("Ejecutando el sistema");
+alert("Ejecutando el sistema");
+
